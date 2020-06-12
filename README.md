@@ -10,7 +10,7 @@ linux system
 
 ### Installation
 ```
-git clone 
+git clone https://github.com/YashGoti/gal.git
 cd gal
 chmod +x gal.sh
 ```
@@ -26,7 +26,7 @@ chmod +x gal.sh
 Please use target URL without slash at the end of URL / URLs
 ```
 
-### Spleacial Thanks to
+### Special Thanks to
 ```
 - Gwendal Le Coguic [gwen001] - [https://github.com/gwen001] - for CURL Request
 - Kathan Patel [KathanP19] - [https://github.com/KathanP19] - for Suggestion
