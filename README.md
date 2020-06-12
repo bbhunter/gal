@@ -1,6 +1,6 @@
 # Get All Links - [gal]
 
-Get All The Links from Web pages from href / src / etc.
+Get all the links for target websites using href / src / url / etc. 
 
 ### Dependencies
 ```
