@@ -21,6 +21,15 @@ chmod +x gal.sh
 ./gal.sh -ul ./targets.txt #mulltiple target URLs
 ```
 
+### Options
+```
+|Options|Description|
+|-------|-----------|
+|-u|Find links from single URL/Website|
+|-ul|Find links from list of URLs/Websites|
+|Note|Please use URL/website with slash at the end Ex. http(s)://target.com|
+```
+
 ### Note
 ```
 Please use target URL without slash at the end of URL / URLs
